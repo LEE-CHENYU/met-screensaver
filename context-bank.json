@@ -1,0 +1,694 @@
+[
+  {
+    "id": "egypt-limbs",
+    "text": "Egyptian limb amulets were believed to protect corresponding body parts and perhaps strengthen their abilities. Material and color mattered too: blood-like carnelian could express vitality within this system of personal protection.",
+    "sources": [
+      "https://www.metmuseum.org/art/collection/search/548367"
+    ],
+    "themes": [],
+    "culture": "egypt",
+    "match": "\\b(hand|foot|leg)\\b.*amulet|amulet.*\\b(hand|foot|leg)\\b",
+    "field": "title",
+    "lens": "anthropology"
+  },
+  {
+    "id": "egypt-amulets",
+    "text": "Egyptians wore amulets to obtain protection and well-being. Shape, material, color, and ritual action could give an object power, linking personal adornment to a practical religious response to bodily vulnerability.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egyptian-amulets"
+    ],
+    "themes": [],
+    "culture": "egypt",
+    "match": "amulet|wedjat|scarab",
+    "field": "title",
+    "lens": "belief"
+  },
+  {
+    "id": "egypt-faience",
+    "text": "Egyptian faience combined crushed quartz with ingredients that formed a glassy surface during firing. This manufactured brilliance carried associations of life and renewal, joining controlled material transformation to religious meaning.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egyptian-faience-technology-and-production"
+    ],
+    "themes": [],
+    "culture": "egypt",
+    "match": "faience",
+    "field": "medium",
+    "lens": "technology"
+  },
+  {
+    "id": "egypt-false-door",
+    "text": "Egyptian false doors provided a ritual meeting place between living and dead. Offerings deposited in front sustained the deceased, making commemoration an ongoing relationship maintained through food, prayers, and family participation.",
+    "sources": [
+      "https://www.metmuseum.org/art/collection/search/577370"
+    ],
+    "themes": [],
+    "culture": "egypt",
+    "match": "false door",
+    "field": "title",
+    "lens": "anthropology"
+  },
+  {
+    "id": "egypt-captives",
+    "text": "Old Kingdom captive statues placed defeated foreigners within royal pyramid complexes. Their bodies expressed subjugation, turning sculpture into a political and ritual assertion that the king could dominate forces beyond Egypt.",
+    "sources": [
+      "https://www.metmuseum.org/art/collection/search/543869"
+    ],
+    "themes": [
+      "old-kingdom"
+    ],
+    "culture": "egypt",
+    "match": "captive",
+    "field": "title",
+    "lens": "power"
+  },
+  {
+    "id": "egypt-offerings",
+    "text": "In Egyptian tombs, images and lists of offerings could sustain the deceased even when actual deliveries ceased. Religious expectations turned food, material provision, and remembrance into obligations extending beyond death.",
+    "sources": [
+      "https://www.metmuseum.org/art/collection/search/577372"
+    ],
+    "themes": [],
+    "culture": "egypt",
+    "match": "offering|butcher",
+    "field": "title",
+    "lens": "economics"
+  },
+  {
+    "id": "egypt-agrarian",
+    "text": "Old Kingdom tomb scenes connected farming, animal resources, and food deliveries to an official’s continued existence. They preserve evidence of work, but through images selected to provision and commemorate an elite owner.",
+    "sources": [
+      "https://www.clevelandart.org/art/1930.735"
+    ],
+    "themes": [
+      "old-kingdom"
+    ],
+    "culture": "egypt",
+    "match": "agricultur|harvest|cattle|birds|desert animals",
+    "field": "title",
+    "lens": "economics"
+  },
+  {
+    "id": "egypt-stone",
+    "text": "Egyptian stone vessels were hollowed using drilling tools after their exterior was shaped. A finished container embodied specialist knowledge and patient labor, connecting ordinary household forms to a highly developed technical tradition.",
+    "sources": [
+      "https://www.ucl.ac.uk/museums-static/digitalegypt/stone/vessels.html"
+    ],
+    "themes": [],
+    "culture": "egypt",
+    "match": "\\b(travertine|alabaster|gneiss|limestone|basalt|stone)\\b",
+    "field": "vessel_material",
+    "lens": "technology"
+  },
+  {
+    "id": "egypt-seal",
+    "text": "Egyptian seals and their clay impressions help reconstruct the administration behind royal power. Repeatable carved marks connected individuals and offices to procedures for controlling goods, extending authority into everyday material transactions.",
+    "sources": [
+      "https://archiv.ub.uni-heidelberg.de/propylaeumdok/4188/1/Bussmann_Seal_and_seal_2011.pdf"
+    ],
+    "themes": [],
+    "culture": "egypt",
+    "match": "\\bseal\\b",
+    "field": "title",
+    "lens": "administration"
+  },
+  {
+    "id": "egypt-tomb-statue",
+    "text": "Egyptian tomb statues could become substitutes for the deceased after ritual activation. Receiving offerings through an image linked beliefs about personal survival to specialist craftsmanship and continuing nourishment supplied by the living.",
+    "sources": [
+      "https://www.clevelandart.org/art/1948.420"
+    ],
+    "themes": [],
+    "culture": "egypt",
+    "match": "funerary statue|tomb statue|ka.statue",
+    "field": "title",
+    "lens": "belief"
+  },
+  {
+    "id": "roman-glass",
+    "text": "Roman glass production expanded rapidly after glassblowing developed in the eastern Mediterranean. Faster manufacture widened the range of vessel forms, connecting workshop innovation and mobile craft knowledge to changing patterns of consumption.",
+    "sources": [
+      "https://www.metmuseum.org/essays/roman-glass"
+    ],
+    "themes": [],
+    "culture": "roman",
+    "match": "glass",
+    "field": "medium",
+    "lens": "technology"
+  },
+  {
+    "id": "minoan-context",
+    "text": "Minoan palaces concentrated political authority, workshops, and agricultural resources. Administrative writing accompanied these institutions, linking finely made objects to systems for organizing production and managing goods as well as to ritual life.",
+    "sources": [
+      "https://www.metmuseum.org/essays/minoan-crete"
+    ],
+    "themes": [],
+    "culture": "minoan",
+    "match": "",
+    "field": "title",
+    "lens": "economics"
+  },
+  {
+    "id": "cycladic-context",
+    "text": "Early Cycladic communities combined maritime exchange with rich island mineral resources. Unequal quantities of burial goods suggest differences in wealth, so objects illuminate both regional connections and emerging distinctions within island societies.",
+    "sources": [
+      "https://www.metmuseum.org/essays/early-cycladic-art-and-culture"
+    ],
+    "themes": [],
+    "culture": "cycladic",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "late-period-context",
+    "text": "Egypt’s Late Period combined renewed use of older artistic traditions with changing foreign pressures. Saite rulers reunified the country, while later Persian conquest altered sovereignty without ending the importance of established Egyptian religious practices.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egypt-in-the-late-period-ca-712-332-b-c"
+    ],
+    "themes": [
+      "late-ptolemaic"
+    ],
+    "culture": "",
+    "match": "late period|saite|dynasty 26|dynasty 27",
+    "field": "facts",
+    "lens": "history"
+  },
+  {
+    "id": "archaic-context",
+    "text": "Archaic Greek artists adapted ideas arriving through contact with Egypt and the Near East. New forms of monumental sculpture and painted pottery reveal cultural exchange as local workshops developed distinctive ways to represent bodies and stories.",
+    "sources": [
+      "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period"
+    ],
+    "themes": [
+      "geometric-archaic"
+    ],
+    "culture": "",
+    "match": "archaic",
+    "field": "facts",
+    "lens": "exchange"
+  },
+  {
+    "id": "roman-painting",
+    "text": "Roman wall paintings brought myth, landscapes, everyday scenes, and imagined architecture into domestic spaces. The choice of subjects made the household a setting for engaging with stories and places beyond its physical walls.",
+    "sources": [
+      "https://oyc.yale.edu/history-art/hsar-252/lecture-8"
+    ],
+    "themes": [
+      "roman-luxury"
+    ],
+    "culture": "",
+    "match": "fresco|paint",
+    "field": "facts",
+    "lens": "culture"
+  },
+  {
+    "id": "hittite-context",
+    "text": "The Hittite kingdom ruled from fortified Hattusha and competed with major neighboring powers. Warfare, diplomacy, and royal marriage linked Anatolia to Syria and Egypt, placing courtly objects within international political relationships.",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-hittites"
+    ],
+    "themes": [
+      "anatolia-hittites"
+    ],
+    "culture": "",
+    "match": "hittite",
+    "field": "facts",
+    "lens": "power"
+  },
+  {
+    "id": "cycladic-minoan-0",
+    "text": "The early Aegean was a connected maritime region. Cycladic islanders traded mineral resources and made marble vessels and figures, while differences in burial goods suggest unequal access to material wealth.",
+    "sources": [
+      "https://www.metmuseum.org/essays/early-cycladic-art-and-culture"
+    ],
+    "themes": [
+      "cycladic-minoan"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "cycladic-minoan-1",
+    "text": "Cycladic burial goods provide much of our evidence for early island life. Because few settlements are known, surviving art offers an uneven view shaped strongly by what communities placed with their dead.",
+    "sources": [
+      "https://www.metmuseum.org/essays/early-cycladic-art-and-culture"
+    ],
+    "themes": [
+      "cycladic-minoan"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "mycenaean-0",
+    "text": "Mycenaean wealth centered on fortified palaces and powerful elites. Workshops made practical goods and luxuries, while scribes used Linear B to record an early form of Greek within palace administration.",
+    "sources": [
+      "https://www.metmuseum.org/essays/mycenaean-civilization"
+    ],
+    "themes": [
+      "mycenaean"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "mycenaean-1",
+    "text": "Mycenaean vessels traveled widely across the Mediterranean. Oil, wine, and other contents were probably central to this exchange, reminding us that surviving containers often record an economy built around perishable goods.",
+    "sources": [
+      "https://www.metmuseum.org/essays/mycenaean-civilization"
+    ],
+    "themes": [
+      "mycenaean"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "geometric-archaic-0",
+    "text": "Early Greek communities developed city-states, alphabetic writing, and overseas connections. Elite displays of wealth and references to heroic stories helped establish status within societies undergoing major political and cultural change.",
+    "sources": [
+      "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece"
+    ],
+    "themes": [
+      "geometric-archaic"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "geometric-archaic-1",
+    "text": "In Geometric Greece, emerging aristocracies distinguished themselves through material wealth and heroic imagery. Objects therefore help explain how communities represented status while new civic and religious institutions were taking shape.",
+    "sources": [
+      "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece"
+    ],
+    "themes": [
+      "geometric-archaic"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "athenian-vases-0",
+    "text": "Athenian black and red pottery colors depended on controlled kiln atmospheres rather than separate paints. Skilled firing transformed clay surfaces, connecting familiar mythological scenes to demanding technical knowledge in specialist workshops.",
+    "sources": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Greek_Art_From_Prehistoric_to_Classical.pdf"
+    ],
+    "themes": [
+      "athenian-vases"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "athenian-vases-1",
+    "text": "Athenian painted pottery circulated beyond Greek communities, including to wealthy Etruscan buyers. These vessels connect local workshops and shared heroic stories to overseas demand and the movement of goods across cultural boundaries.",
+    "sources": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Greek_Art_From_Prehistoric_to_Classical.pdf"
+    ],
+    "themes": [
+      "athenian-vases"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "classical-sculpture-0",
+    "text": "Classical Greek sculpture developed amid civic building projects and religious patronage. Public monuments made artistic skill part of communal identity, connecting representations of the human body to the institutions commissioning them.",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+    ],
+    "themes": [
+      "classical-sculpture"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "classical-sculpture-1",
+    "text": "Classical Athens invested heavily in rebuilding its sacred monuments. Artistic production belonged to a civic and religious project, showing how workshops and public resources could give a city’s identity a durable form.",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+    ],
+    "themes": [
+      "classical-sculpture"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "hellenistic-0",
+    "text": "After Alexander’s conquests, Greek-speaking kingdoms connected communities across a greatly enlarged world. Royal patronage and the movement of artists supported new forms of display, linking artistic production to competitive centers of power.",
+    "sources": [
+      "https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition"
+    ],
+    "themes": [
+      "hellenistic"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "hellenistic-1",
+    "text": "Hellenistic rulers used courts and cities as centers of artistic patronage. Expanding audiences encouraged varied subjects and forms, while the circulation of artists connected local workshops to a wider world of wealthy patrons.",
+    "sources": [
+      "https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition"
+    ],
+    "themes": [
+      "hellenistic"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "etruscan-0",
+    "text": "Etruscan workshops adapted Greek and Levantine forms to local tastes. Mediterranean trade supplied materials such as ivory and amber, connecting elite consumption in Italy to distant sources and the skills of specialized craftspeople.",
+    "sources": [
+      "https://www.metmuseum.org/essays/etruscan-art"
+    ],
+    "themes": [
+      "etruscan"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "etruscan-1",
+    "text": "Much Etruscan writing survives only as short texts, making art and archaeology especially important historical evidence. Tombs preserve valuable information, though their rich contents disproportionately reflect people able to afford elaborate commemoration.",
+    "sources": [
+      "https://www.metmuseum.org/essays/etruscan-art"
+    ],
+    "themes": [
+      "etruscan"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "cypriot-0",
+    "text": "Cyprus’s copper deposits made the island important to eastern Mediterranean powers and traders. Its location also connected routes westward, placing local craft traditions within networks of resources, exchange, and competing political interests.",
+    "sources": [
+      "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia"
+    ],
+    "themes": [
+      "cypriot"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "cypriot-1",
+    "text": "Ancient Cyprus stood along routes linking the Levant and the wider Mediterranean. Its copper resources attracted outside interests, showing how an island’s geology and position could shape economic connections and political relationships.",
+    "sources": [
+      "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia"
+    ],
+    "themes": [
+      "cypriot"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "phoenician-levantine-0",
+    "text": "Phoenician cities were independent rivals connected by maritime commerce. Skilled workshops produced sought-after luxuries, linking coastal urban economies to far-reaching trade rather than to a single unified territorial state.",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c"
+    ],
+    "themes": [
+      "phoenician-levantine"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "phoenician-levantine-1",
+    "text": "Levantine craftspeople worked ivory, metals, timber, and textiles for markets beyond their cities. Such production connected technical expertise and prized materials to the maritime networks through which elite goods and styles circulated.",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c"
+    ],
+    "themes": [
+      "phoenician-levantine"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "roman-portraits-0",
+    "text": "Roman portraits communicated political ideals as well as likeness. Rulers selected youthful, aged, or deliberately traditional appearances, making the fashioned face a way to claim authority and connect a reign to respected predecessors.",
+    "sources": [
+      "https://www.metmuseum.org/essays/roman-portrait-sculpture-the-stylistic-cycle"
+    ],
+    "themes": [
+      "roman-portraits"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "roman-portraits-1",
+    "text": "Imperial Roman portrait styles helped define the image of a reign. Changes in hair, expression, and idealization could communicate continuity or difference, revealing how political authority was constructed through repeated visual choices.",
+    "sources": [
+      "https://www.metmuseum.org/essays/roman-portrait-sculpture-the-stylistic-cycle"
+    ],
+    "themes": [
+      "roman-portraits"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "roman-luxury-0",
+    "text": "Roman domestic paintings included myths, landscapes, ordinary activities, and imagined architecture. Household decoration connected private rooms to a wider cultural world, making stories and representations of distant places part of everyday surroundings.",
+    "sources": [
+      "https://oyc.yale.edu/history-art/hsar-252/lecture-8"
+    ],
+    "themes": [
+      "roman-luxury"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "roman-luxury-1",
+    "text": "Painted scenes brought a range of subjects into Roman interiors, from mythological stories to everyday activities. Their variety provides evidence of the visual culture people selected to live with in domestic space.",
+    "sources": [
+      "https://oyc.yale.edu/history-art/hsar-252/lecture-8"
+    ],
+    "themes": [
+      "roman-luxury"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "old-kingdom-0",
+    "text": "Old Kingdom monuments joined royal power to religious ideas about eternal life. Tomb chapels, statues, and offering scenes created settings where the living could continue to support and commemorate the dead.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c"
+    ],
+    "themes": [
+      "old-kingdom"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "old-kingdom-1",
+    "text": "Old Kingdom funerary art promised nourishment and continued existence through images and ritual. Its lasting record reflects those able to commission monuments, so it reveals elite priorities more readily than the full range of Egyptian lives.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c"
+    ],
+    "themes": [
+      "old-kingdom"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "middle-kingdom-0",
+    "text": "Egypt’s Middle Kingdom followed political reunification under Mentuhotep II. Artists reworked older traditions as kingship, society, and afterlife beliefs changed, showing how cultural continuity could coexist with new institutions and forms of expression.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c"
+    ],
+    "themes": [
+      "middle-kingdom"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "middle-kingdom-1",
+    "text": "Middle Kingdom culture revived and transformed inherited Egyptian traditions. Changes across sculpture, jewelry, stelae, and literature reveal a society reshaping ideas of authority and individual identity after an era of political division.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c"
+    ],
+    "themes": [
+      "middle-kingdom"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "new-kingdom-amarna-0",
+    "text": "New Kingdom Egypt expanded its political reach while kings invested in temples and richly decorated burials. Artistic production connected royal authority and religious practice to the resources mobilized by an imperial state.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c"
+    ],
+    "themes": [
+      "new-kingdom-amarna"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "new-kingdom-amarna-1",
+    "text": "New Kingdom rulers separated their great mortuary temples from tombs cut into the Theban hills. Religious texts and images organized burial spaces around the deceased king’s journey and continued existence after death.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c"
+    ],
+    "themes": [
+      "new-kingdom-amarna"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "late-ptolemaic-0",
+    "text": "In Ptolemaic Egypt, Greek rulers presented themselves both as Hellenistic monarchs and Egyptian pharaohs. Temples sustained established cults, while Greek status and new cultural connections reshaped relationships within an unequal society.",
+    "sources": [
+      "https://www.metmuseum.org/perspectives/egyptian-ptolemaic-art-installation"
+    ],
+    "themes": [
+      "late-ptolemaic"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "late-ptolemaic-1",
+    "text": "Ptolemaic rulers supported Egyptian temples while living in the heavily Greek city of Alexandria. Different artistic traditions expressed authority for different settings and audiences, revealing cultural interaction without erasing distinctions of status.",
+    "sources": [
+      "https://www.metmuseum.org/perspectives/egyptian-ptolemaic-art-installation"
+    ],
+    "themes": [
+      "late-ptolemaic"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "egyptian-amulets-0",
+    "text": "Egyptian amulets were often affordable objects of personal protection. Their power could depend on shape, material, color, and ritual action, placing religious practice close to everyday concerns about bodily safety and well-being.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egyptian-amulets"
+    ],
+    "themes": [
+      "egyptian-amulets"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "egyptian-amulets-1",
+    "text": "Egyptians placed protective objects on the living and the dead. Adornment and ritual overlapped: miniature forms were believed to transfer beneficial powers, making jewelry part of an active relationship between bodies and sacred forces.",
+    "sources": [
+      "https://www.metmuseum.org/essays/egyptian-amulets"
+    ],
+    "themes": [
+      "egyptian-amulets"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "anatolia-hittites-0",
+    "text": "Ancient Anatolia belonged to a wider Near Eastern world connected by the movement of materials, objects, and ideas. Craft traditions provide evidence for these relationships across communities with different political and cultural histories.",
+    "sources": [
+      "https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities"
+    ],
+    "themes": [
+      "anatolia-hittites"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  },
+  {
+    "id": "anatolia-hittites-1",
+    "text": "Objects from Anatolia belong to varied societies across many centuries. Their materials and forms help trace connections with neighboring regions, reminding us that this exhibition spans changing communities rather than a single timeless culture.",
+    "sources": [
+      "https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities"
+    ],
+    "themes": [
+      "anatolia-hittites"
+    ],
+    "culture": "",
+    "match": "",
+    "field": "title",
+    "lens": "society"
+  }
+]

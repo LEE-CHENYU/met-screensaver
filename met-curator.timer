@@ -1,0 +1,11 @@
+[Unit]
+Description=Build the weekly Mediterranean exhibit on Monday morning
+
+[Timer]
+OnCalendar=Mon *-*-* 06:00:00
+RandomizedDelaySec=30min
+Persistent=true
+Unit=met-curator.service
+
+[Install]
+WantedBy=timers.target

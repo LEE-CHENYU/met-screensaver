@@ -1,0 +1,13 @@
+[Unit]
+Description=Curate a weekly open-collection Mediterranean exhibit
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=@USER@
+Nice=10
+IOSchedulingClass=idle
+UMask=0022
+WorkingDirectory=/opt/met-screensaver
+ExecStart=/usr/bin/python3 /opt/met-screensaver/met_curator.py --root /srv/screensaver/exhibits --state /srv/screensaver/state
